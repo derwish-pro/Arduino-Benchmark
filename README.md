@@ -1,3 +1,5 @@
+**Arduino Benchmark**
+
 This is a simple program to compare the performance of different Arduino boards.
 
 The Arduino performs a simple mathematical operation on different data types to visually see how it handles 8-bit data and 32-bit floating point data.
