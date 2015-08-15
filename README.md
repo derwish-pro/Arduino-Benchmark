@@ -20,5 +20,5 @@ I got the following results:
 
 **Intel i7 2600k** for comparison (one thread):
 
-* float 0.075 ms
-* int 0.006 ms
+* float 0.071 ms
+* int 0.003 ms
