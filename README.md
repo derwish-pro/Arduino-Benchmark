@@ -1,4 +1,4 @@
-**Arduino Benchmark**
+# Arduino Benchmark #
 
 This is a simple program to compare the performance of different Arduino boards.
 
